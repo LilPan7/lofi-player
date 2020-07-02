@@ -108,3 +108,4 @@ Todos esses incríveis gifs e imagens que são usadas de fundo, pertencem à [es
 <p align="center">
   <img src="/public/favicon.png" width="35" />
 </p>
+[![Run on Repl.it](https://repl.it/badge/github/LaksCastro/lofi-player)](https://repl.it/github/LaksCastro/lofi-player)
